@@ -3,11 +3,12 @@
 This project is a convolutional neural network (CNN) model built using TensorFlow/Keras to classify images as either a dog or a cat. The model is trained on labeled images and can be used to predict the class of new images.
 ## 📽️ Demo Video
 
-🎬 [Click here to download or watch the demo](./demo_cat_dog_classifier (1).mp4)
+Watch how the Dog vs Cat Classifier works in action:
 
-> ⚠️ Note: GitHub doesn’t preview large video files, but you can still download or play it after clicking the link above.
+🎬 [Click here to watch the demo video](https://github.com/KRITIGUPTA2205/dog-cat-classifier/blob/main/demo_cat_dog_classifier%20(1).mp4)
 
----
+> ⚠️ Note: GitHub doesn't preview large videos. Click the link to download or play it in your browser.
+
 
 ## Project Overview
 
