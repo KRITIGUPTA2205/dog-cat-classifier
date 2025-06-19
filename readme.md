@@ -14,7 +14,7 @@ Watch how the Dog vs Cat Classifier works in action:
 
 - **Model Architecture:** CNN with multiple convolutional and pooling layers, followed by fully connected layers.
 - **Input:** Color images resized to 100x100 pixels.
-- **Output:** Binary classification — Dog (0) or Cat (1).
+- **Output:** Binary classification — Dog (1) or Cat (0).
 - **Framework:** TensorFlow 2.x with Keras API.
 - **Model Format:** Saved in `.h5` format for easy loading and inference.
 
